@@ -1,0 +1,754 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Nevin",
+      "title": "Python Developer",
+      "description": "Disfruto resolviendo problemas con código. Mi interés en la programación comenzó con el libro de programación BASIC de ZX Spectrum, allá por 1984. Mientras estudiaba Física, faltaba a clases para programar en Polyray y Truespace para generar gráficos de computadora en 3D. Programé en Adobe Director Lingo durante tres años como CTO de una empresa de consultoría de New Media desde 1998 hasta el colapso del punto com.\n\nAvanzando hasta hoy, he trabajado como director de ventas en ventas de relojes de lujo, educador de idiomas de negocios, gerente de redes sociales y entrenador de escritura creativa.\n\nEn estos días, estoy manteniendo un proyecto C# / ASP.net que construí en 2020 y mi enfoque principal es construir soluciones útiles utilizando Python.\n\nAlgunas de las tecnologías con las que he estado trabajando últimamente:\n\n    Python\n    Django\n    FastApi\n    JavaScript\n    PostgreSQL\n    Docker\n    Git\n    C#\n    ASP .NET\n\n**English**\nI enjoy solving problems with code. My interest in coding started with the ZX Spectrum BASIC Programming book, back in 1984. While studying Physics, I skipped class to program in Polyray and Truespace to generate 3D computer graphics. I coded in Adobe Director Lingo for three years as the CTO of a New Media consultancy company from 1998 until the dot com crash.\n\nFast forward to today, and I've worked as a sales director in luxury watch sales, a business language educator, a social media manager, and a creative writing coach.\n\nThese days, I'm maintaining a C# / ASP.net project I built in 2020 and my principle focus is building useful solutions using Python.\n\nSome of the technologies I've been working with lately:\n\n- Python\n- Django\n- FastApi\n- PostgreSQL\n- Docker\n- Git\n - C#\n - JavaScript\n - ASP .NET\n\n",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/29/fda6f1b9-8ecd-489e-a2ec-3381ed24bd3e_me.jpg",
+        "alt": "me.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Valencia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://www.davidnevin.net/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Critique Wheel",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/017da4f1-a242-4e96-aaa5-f02ede249f53_critiquewheel.png",
+            "alt": "critiquewheel.png"
+          },
+          "URL": "https://www.critiquewheel.com"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer and Founder",
+            "startDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "Como el único desarrollador, diseñé, desarrollé y lancé una aplicación web utilizando ASP.NET Razor Pages, Entity Framework y MySQL. Integré la API de correo electrónico Twillio Sendgrid para la comunicación del usuario, mejorando los procesos y fomentando una comunidad de apoyo para más de 30 usuarios.\n\nAs the sole developer my role involved design, development, and launch.  I used ASP.NET Razor Pages, Entity Framework, and MySQL for development. The Twillio Sendgrid email API was used for user communication. The launch of this application improved user communication processes and  fosters a supportive community for writers."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Razor",
+                "type": "technology"
+              },
+              {
+                "name": "Sendgrid",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Talk Business Languages",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/5b9a7efd-5b41-46e1-9a7d-58ae5d060f3f_talkbusiness.jpg",
+            "alt": "talkBusiness.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": " EFL Teacher",
+            "startDate": "2016-05-01",
+            "challenges": [
+              {
+                "description": "EFL Teacher: Implemented problem-solving strategies to overcome language learning challenges, enhancing communication and interpersonal skills.\n\nProfesor de inglés como lengua extranjera: Implementé estrategias de resolución de problemas para superar los desafíos del aprendizaje de idiomas, mejorando las habilidades de comunicación e interpersonales."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "DavidNevin.net",
+          "description": "Profesional Porfolio"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MeetupSelector",
+          "description": "This project is meant to be a landing page for the Python Alicante community and a like-system to organize MeetUps. It allows the community members to propose Meetup topics and also to propose themselves as speakers.",
+          "URL": "https://github.com/pythonalicante/MeetupSelector",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/814ed095-b0b3-4550-8150-d37ded030420_meetupselector_overv.png",
+            "alt": "MeetupSelector_overview.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "ASP.net",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": " Python Data Analysis",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Linkedin",
+          "URL": "https://www.linkedin.com/learning/certificates/700467324cf5e00b2618891df1ac23115f42031cbfd8ebaededb818ecde4be55",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/1ee007ea-1137-4afd-b461-f95ffe240f0e_linkedin.jpg",
+            "alt": "linkedin.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": " Python Functions and Learn Jupyter Notebook",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Dataquest.io",
+          "URL": "https://app.dataquest.io/view_cert/U27TP2K74TVPUFXKSLKI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/47db7d5d-8dea-4643-8bd2-f1319dc2d3ae_dataquest.jpg",
+            "alt": "dataquest.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Building Recommender Systems with Machine Learning and AI",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Linkedin",
+          "URL": "https://www.linkedin.com/learning/certificates/712365a2e40b247b128bd2fe2cf4fce7a3b43f2a0fb3340fcd6d9b23e03ff5f1",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/5b461339-bd9a-45e1-93c5-38e12d376145_linkedin.jpg",
+            "alt": "linkedin.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Building Web Applications in Django",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "futureLearn",
+          "URL": "https://www.futurelearn.com/certificates/6l4s0o2",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/946b606e-8790-479c-8014-db0aa13170c9_futurelearn.jpg",
+            "alt": "futureLearn.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Data Structures and Algorithms in Python",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Educative.io",
+          "URL": "https://www.educative.io/verify-certificate/985KjktMnQX0ZWjggcZ4JZ1MRkD9uN",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/36d0a91b-19d2-45ba-9b4d-6be55eed7022_educative.jpg",
+            "alt": "educative.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Dictionaries, Frequency Tables, and Functions in Python Course",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Dataquest.io",
+          "URL": "https://app.dataquest.io/view_cert/Z0CNSIGUIF2HJGLHWQJL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/a39b1bb4-ac7b-44f4-875b-ec9762836531_dataquest.jpg",
+            "alt": "dataquest.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Django Takeoff: Developing Modern Applications",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Educative.io",
+          "URL": "https://www.educative.io/verify-certificate/KOnpGJIBN6MgxKpXgUnqOnGWwJZ0TB",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/aea9d288-4e70-4aa9-bcb0-8f49545f601f_educative.jpg",
+            "alt": "educative.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Django",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Flask: Develop Web Applications in Python",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Educative.io",
+          "URL": "https://www.educative.io/verify-certificate/VmBEWXTz5ZvnVAkANtE9mEkD042Ysr",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/7b5d4afe-a76d-4a07-a21e-379d9cc02728_educative.jpg",
+            "alt": "educative.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Google Cloud Digital Leader Training Specialization",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Google on Coursera",
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/BREPUSRCVT4Z",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/0525698e-8e50-4232-9495-5e1c05aceaa3_coursera.jpg",
+            "alt": "coursera.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Google IT Automation with Python Specialization",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Google on Coursera",
+          "URL": "https://coursera.org/share/3a64c06f782de591be6e3577ac71fcb0",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/bb7948a5-0e03-40d9-bafb-ff212d8ddfc8_coursera.jpg",
+            "alt": "coursera.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Javascript Tutorial and Projects Course",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-2a38bb8e-32c6-4bed-b1e1-b510d9567b9e/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/19/3d4da089-35c5-4e90-9436-a20caf1ed5ab_udemy.jpg",
+            "alt": "udemy.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Learn Object-Oriented Programming in Python",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "Educative.io",
+          "URL": "https://www.educative.io/verify-certificate/KOnpGJIZ2EMkv6zjoFnqOnGWwJZ0TB",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/8038b29e-d80f-4b93-b4b4-14e4e5463153_educative.jpg",
+            "alt": "educative.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciatura en Ciencias Aplicadas (B.A.Sc.), Ingeniería Física/Física Aplicada",
+        "startDate": "1994-10-01",
+        "institution": {
+          "name": "University of Limerick",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/e0db5c63-0800-4113-a3fe-db945c388cc8_ul.jpg",
+            "alt": "ul.jpg"
+          }
+        },
+        "finishDate": "1998-09-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Artes - Ma, Literatura Moderna",
+        "startDate": "2018-10-01",
+        "institution": {
+          "name": "University of Wales Trinity Saint David",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/1e5e03e0-f849-4668-ba12-9523dda2d14a_wales.jpg",
+            "alt": "wales.jpg"
+          }
+        },
+        "finishDate": "2020-10-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Python for Programmers",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Educative.io",
+          "URL": "https://www.educative.io/verify-certificate/8q5JgjuPx025gPJ4VuRjYRwJX0LrTg",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/e571b569-03f9-497a-ae26-f785e4e1e7d9_educative.jpg",
+            "alt": "educative.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Responsive Web Design",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "FreeCodeCamp",
+          "URL": "https://freecodecamp.org/certification/davidnevin/responsive-web-design",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/36a42609-435a-47dc-b822-596c11d4ea69_freecodecamp.jpg",
+            "alt": "freeCodeCamp.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Scientific Computing with Python",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "FreeCodeCamp",
+          "URL": "https://freecodecamp.org/certification/davidnevin/scientific-computing-with-python-v7",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/026eb308-5649-4117-b87a-79946d2b70c1_freecodecamp.jpg",
+            "alt": "freeCodeCamp.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Soporte de Tecnologías de la Información de Google",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Google on Coursera",
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/DCGZGY2LFSVC",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/09/a34c8bf0-e7c7-4235-ae6d-70ef4845e76d_coursera.jpg",
+            "alt": "coursera.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "DNS",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "PowerShell",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento creativo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/davidnevin/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/davidjnevin/",
+          "type": "other"
+        },
+        {
+          "URL": "https://www.twitter.com/davidjnevin",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "dnevincodes@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "647886315",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "NoSQL",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I am a problem solver at heart, and what motivates me the most is the opportunity to tackle complex challenges through coding. I thrive on the thrill of creating useful solutions, particularly with Python, and enjoy the process of continuous learning and growth that comes with being a software engineer.\n\nIn a work environment, I value collaboration, open communication, and a culture of innovation. I appreciate a setting where ideas are freely exchanged, and everyone's contribution is valued. I also value an environment that encourages continuous learning and professional development.\n\nAn ideal workday for me would involve working on challenging coding tasks, collaborating with a team to brainstorm and implement solutions, and seeing the direct impact of my work. I enjoy the process of maintaining and improving existing projects, as well as the thrill of starting new ones. I would also appreciate the opportunity to share my knowledge and experience.\n\nAs for my role in a team, I see myself as both an \"individual contributor\" and a potential leader. With my rich professional experience and diverse skill set, I am comfortable working independently on tasks. However, I also have the experience and the interpersonal skills to take on a leadership role, guiding a team towards achieving their goals. I am open to a role that allows me to leverage both these aspects, contributing individually while also leading others.\n\n---\n\nSoy un solucionador de problemas de corazón, y lo que más me motiva es la oportunidad de abordar desafíos complejos a través de la codificación. Prospero con la emoción de crear soluciones útiles, particularmente con Python, y disfruto del proceso de aprendizaje y crecimiento continuo que viene con ser un ingeniero de software.\n\nEn un entorno de trabajo, valoro la colaboración, la comunicación abierta y una cultura de innovación. Aprecio un entorno donde las ideas se intercambian libremente y se valora la contribución de todos. También valoro un entorno que fomente el aprendizaje continuo y el desarrollo profesional.\n\nUn día de trabajo ideal para mí implicaría trabajar en tareas de codificación desafiantes, colaborar con un equipo para idear e implementar soluciones, y ver el impacto directo de mi trabajo. Disfruto del proceso de mantener y mejorar proyectos existentes, así como la emoción de comenzar nuevos. También apreciaría la oportunidad compartir mi conocimiento y experiencia.\n\nEn cuanto a mi papel en un equipo, me veo tanto como un \"contribuyente individual\" como un líder potencial. Con mi rica experiencia profesional y diversidad de habilidades, me siento cómodo trabajando de forma independiente en tareas. Sin embargo, también tengo la experiencia y las habilidades interpersonales para asumir un papel de liderazgo, guiando a un equipo hacia la consecución de sus objetivos. Estoy abierto a un papel que me permita aprovechar ambos aspectos, contribuyendo individualmente mientras también lidero a otros. ",
+    "goodPractices": "Como desarrollador de software dedicado, estoy comprometido con el aprendizaje continuo y con mantenerme actualizado con las últimas mejores prácticas en el campo. Regularmente participo en proyectos prácticos, como el desarrollo de una Biblioteca ELibrary TDD Django y la creación de un Resumidor de Páginas Web FastAPI, que me permiten explorar y aplicar nuevas tecnologías y metodologías. Cada proyecto proporciona una oportunidad para aprender y aplicar las mejores prácticas en diferentes contextos, mejorando mi comprensión teórica y práctica de los principios de programación. He trabajado con varios lenguajes de programación y tecnologías, incluyendo Python, Django, FastAPI, Docker, GitHub Actions y PostgreSQL, entre otros. Esta experiencia práctica, combinada con la participación activa en comunidades de desarrolladores en línea y blogs de la industria, asegura que me mantenga a la vanguardia de las tendencias y avances en el desarrollo de software.\n\nAs a dedicated software developer, I am committed to continuous learning and staying updated with the latest best practices in the field. I regularly engage in practical projects, such as developing a TDD Django ELibrary and creating a FastAPI Web Page Summarizer, which allow me to explore and apply new technologies and methodologies. Each project provides an opportunity to learn and apply best practices in different contexts, enhancing my theoretical and practical understanding of programming principles. I've worked with various programming languages and technologies, including Python, Django, FastAPI, Docker, GitHub Actions, and PostgreSQL, among others. This hands-on experience, combined with active participation in online developer communities and industry blogs, ensures I stay at the forefront of software development trends and advancements.",
+    "projects": [
+      {
+        "name": "DavidNevin.net"
+      },
+      {
+        "name": "MeetupSelector"
+      }
+    ]
+  }
+}
