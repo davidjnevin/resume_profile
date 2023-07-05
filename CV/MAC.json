@@ -167,6 +167,10 @@
               {
                 "name": "SQL",
                 "type": "technology"
+              },
+              {
+                "name": "web hosting",
+                "type": "technology"
               }
             ]
           }
