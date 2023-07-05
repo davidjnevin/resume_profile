@@ -117,6 +117,28 @@
       },
       {
         "organization": {
+          "name": "deLaCour Watches",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/05/fcc3d1a7-c263-47ed-b42a-8f91126d7268_delacour.png",
+            "alt": "delacour.png"
+          },
+          "URL": "https://delacour.ch/"
+        },
+        "roles": [
+          {
+            "name": "Account Manager: Luxury TImepieces",
+            "startDate": "2005-06-01",
+            "finishDate": "2008-09-01",
+            "challenges": [
+              {
+                "description": "Account management for Asian, European and American markets, including new business & sales strategy development. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Silver Apples Media",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/05/613bd428-689f-4ad6-905f-7e7e47743f1e_silverapples.jpg",
