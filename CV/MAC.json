@@ -114,6 +114,41 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Silver Apples Media",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/05/613bd428-689f-4ad6-905f-7e7e47743f1e_silverapples.jpg",
+            "alt": "silverApples.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Chief Technical Officer: Internet Consultancy",
+            "startDate": "1999-09-01",
+            "finishDate": "2002-09-01",
+            "challenges": [
+              {
+                "description": "New Media consulting company specializing in production and management skills. We provided expert guidance and support in the fast-evolving realm of New Media from 1999 - 2002."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
