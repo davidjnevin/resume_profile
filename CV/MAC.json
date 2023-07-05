@@ -92,6 +92,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "deLaCour Watches",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/05/728d30cb-88b0-45eb-af64-99e37690f51c_bichrono.png",
+            "alt": "biChrono.png"
+          },
+          "URL": "https://delacour.ch/"
+        },
+        "roles": [
+          {
+            "name": "Sales Director: Luxury Timepieces",
+            "startDate": "2008-09-01",
+            "finishDate": "2013-06-01",
+            "challenges": [
+              {
+                "description": "Experienced Sales Director specializing in luxury product distribution across Asia (Japan, China, Hong Kong, Singapore, Indonesia, Malaysia, and Thailand), Russia, and the United States. Proven expertise in new business development, project management, luxury sales, negotiation, receivables, brand management, and designing/implementing training programs. Skilled in social media marketing, brand development, sales, marketing strategy, team building, luxury goods, project management, and B2B business."
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
@@ -669,11 +691,11 @@
         },
         {
           "URL": "https://github.com/davidjnevin/",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://www.twitter.com/davidjnevin",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
