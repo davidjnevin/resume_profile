@@ -95,6 +95,38 @@
       },
       {
         "organization": {
+          "name": "Blue Sea Writers",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/05/8361f66b-322c-433d-bf06-d0603d7ceab6_blueseawriters.jpg",
+            "alt": "blueSeaWriters.jpg"
+          },
+          "URL": "https://blueseawriters.com/"
+        },
+        "roles": [
+          {
+            "name": "Creative Writing Coach",
+            "startDate": "2016-01-01",
+            "finishDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "\n\n    I partner with writers to assist in developing and completing their stories. In group and individual workshops, I focus on strengthening the writer’s craft, keeping motivated, and ensuring writing is something to look forward to.\n\n    Services: Craft workshops, Story development, Critiques and feedback, Editing. I partner with writers to assist in developing and completing their stories. In group and individual workshops, I focus on strengthening the writer’s craft, keeping motivated, and ensuring writing is something to look forward to. Services: Craft workshops, Story development, Critiques and feedback, Editing. \n\nSkills: English · Brand Development · Social Media Marketing · Community Management · Sales · Editing · Marketing Strategy · Creative Writing · Team Building · Project Management"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "deLaCour Watches",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/05/30aa78ea-97ef-4fb1-ad70-ece9062e1661_delacour.png",
