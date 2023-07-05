@@ -376,12 +376,6 @@
           "name": "PostgreSQL",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
       }
     ],
     "studies": [
@@ -897,10 +891,6 @@
       },
       {
         "name": "Git",
-        "type": "technology"
-      },
-      {
-        "name": "Python",
         "type": "technology"
       }
     ],
