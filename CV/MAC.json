@@ -774,6 +774,27 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Zero to Hero in Java",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "Educative.io",
+          "description": "Covers Java's basic syntax and functionality, object-oriented programming to create clean, scalable, and modular code and experience practising the implementations of commonly used data structures and classes in Java. ",
+          "URL": "https://www.educative.io/verify-certificate/8q5JgjuQmMq6nz9vVTRjYRwJX0LrTg",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/05/2aab92c0-072e-40ab-b66e-0d19541b0775_educative.jpg",
+            "alt": "educative.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
