@@ -892,11 +892,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "C#",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
       {
         "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
         "type": "technology"
       }
     ],
