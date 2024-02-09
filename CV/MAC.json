@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -22,6 +22,18 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/davidnevin/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/davidjnevin/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://www.twitter.com/davidjnevin"
+      },
       {
         "type": "other",
         "URL": "https://www.davidnevin.net/"
@@ -234,33 +246,6 @@
     "projects": [
       {
         "details": {
-          "name": "DavidNevin.net",
-          "description": "Profesional Porfolio"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-01-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "MeetupSelector",
           "description": "This project is meant to be a landing page for the Python Alicante community and a like-system to organize MeetUps. It allows the community members to propose Meetup topics and also to propose themselves as speakers.",
           "URL": "https://github.com/pythonalicante/MeetupSelector",
@@ -290,6 +275,33 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "DavidNevin.net",
+          "description": "Profesional Porfolio"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -297,10 +309,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Full professional proficiency"
       }
     ],
@@ -842,12 +856,6 @@
       ],
       "contactMails": [
         "dnevincodes@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "647886315",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
