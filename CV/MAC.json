@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.5"
   },
   "aboutMe": {
@@ -811,7 +811,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           }
         ]
@@ -820,19 +820,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Aprendizaje Continuo",
+          "name": "Autonomy in learning",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Autonomía en el aprendizaje",
+          "name": "Continuous learning",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Pensamiento creativo",
+          "name": "Creative thinking",
           "type": "practice"
         }
       }
